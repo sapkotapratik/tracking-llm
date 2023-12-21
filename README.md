@@ -29,9 +29,18 @@ The networks "dreams" internet documents.
  
     <b>  LLM Security: </b>
   -   Jailbreak
-  -   prompt injection
+  -   prompt injection Solution: https://github.com/protectai/rebuff (LLM Prompt Injection Detector)
 
 
 
-##Amazing Repos:
+## Amazing Repos:
+
+- https://github.com/logspace-ai/langflow
+- https://github.com/SJTU-IPADS/PowerInfer
+- https://github.com/langfuse/langfuse
+- https://github.com/facebookresearch/llama-recipes
+- https://github.com/uber-archive/plato-research-dialogue-system
+- https://github.com/jmorganca/ollama
+
+
 
