@@ -41,6 +41,10 @@ The networks "dreams" internet documents.
 - https://github.com/facebookresearch/llama-recipes
 - https://github.com/uber-archive/plato-research-dialogue-system
 - https://github.com/jmorganca/ollama
+- https://github.com/princeton-nlp/tree-of-thought-llm
+- https://github.com/yule-BUAA/MergeLM
+- https://github.com/facebookresearch/Pearl
+- https://github.com/XueyangFeng/LLM-Agent-Paper-Digest (LLM Papers)
 
 
 
