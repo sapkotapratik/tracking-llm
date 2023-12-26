@@ -46,5 +46,7 @@ The networks "dreams" internet documents.
 - https://github.com/facebookresearch/Pearl
 - https://github.com/XueyangFeng/LLM-Agent-Paper-Digest (LLM Papers)
 
+*A unified evaluation framework for large language models* https://github.com/microsoft/promptbench
+
 
 
