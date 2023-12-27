@@ -48,5 +48,7 @@ The networks "dreams" internet documents.
 
 *A unified evaluation framework for large language models* https://github.com/microsoft/promptbench
 
+- https://github.com/microsoft/LMOps  *General technology for enabling AI capabilities w/ LLMs and MLLMs*
+
 
 
